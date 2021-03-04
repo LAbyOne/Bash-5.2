@@ -13,3 +13,6 @@ Eventually you can modify the postinstall script to add a symbolic link.
 
 The path to the bash binary will be added to /etc/shells on the target system,
 so that users can use chsh to switch their default shell.
+
+##
+Thanks to Armin Briegel for original script
