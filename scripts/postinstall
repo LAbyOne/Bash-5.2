@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+export PATH=/usr/bin:/bin:/usr/sbin:/sbin
+
+shells="$3/etc/shells"
+
+if [ -f "$shells" ]; then
+    for binary in "$3"/usr/local/bin/bash* ; do
+        # remove target volume from path
+        binary=${binary#$3}
+        
+        # skip bashbug
+        if [ "${binary}" != /usr/local/bin/bashbug ]; then
+            # add path to /etc/shells if not contained yet
+            if ! grep -q "^${binary}\$" "$shells" ; then
+                echo "${binary}" >> "$shells"
+            fi
+        fi
+    done
+fi
+
+ln -s /usr/local/bin/bash5 /usr/local/bin/bash
+
+exit 0
