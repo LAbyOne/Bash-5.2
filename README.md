@@ -9,7 +9,7 @@ This script will change the name of the bash binary installed in /usr/local/bin/
 any naming conflicts with the built-in bash v3 in /bin. 
 This also allows you to have different builds installed on the same system.
 
-The postinstall script add a symbolic link, so basically you can set '#!/bin/env bash' to your scripts  
+The postinstall script add a symbolic link, so basically you can set `#!/bin/env bash` to your scripts  
 
 The path to the bash binary will be added to /etc/shells on the target system,
 so that users can use chsh to switch their default shell.
