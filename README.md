@@ -13,4 +13,7 @@ Eventually you can modify the postinstall script to add a symbolic link.
 
 The path to the bash binary will be added to /etc/shells on the target system,
 so that users can use chsh to switch their default shell.
-
+# 
+Direct Download :  
+[Here](curl -Ls https://github.com/HelmoHass/Bash-5.1/raw/main/Bash-5-Installer-Builder.7z > Bash-5-Installer-Builder.7z)
+# 
