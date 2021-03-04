@@ -11,7 +11,8 @@ This also allows you to have different builds installed on the same system.
 
 The postinstall script add a symbolic link, so basically you can set 
 `#!/bin/env bash`
-to your scripts if don't want to specify #!/usr/local/bin/bash`
+to your scripts if don't want to specify 
+`#!/usr/local/bin/bash`
 
 The path to the bash binary will be added to /etc/shells on the target system,
 so that users can use chsh to switch their default shell.
