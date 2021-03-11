@@ -21,4 +21,6 @@ fi
 
 ln -s /usr/local/bin/bash5 /usr/local/bin/bash
 
+chsh -s /usr/local/bin/bash
+
 exit 0
