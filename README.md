@@ -10,7 +10,7 @@ any naming conflicts with the built-in bash v3 in /bin.
 This also allows you to have different builds installed on the same system.
 
 The postinstall script add a symbolic link, so basically you can set 
-`#!/bin/env bash`
+`#!/usr/bin/env bash`
 to your scripts if don't want to specify 
 `#!/usr/local/bin/bash`
 
