@@ -20,7 +20,7 @@ by typing this in your terminal `chsh -s /usr/local/bin/bash5`
 The path to the bash binary will be added to /etc/shells on the target system,
 so that users can use chsh to switch their default shell.
 
-Direct Download [5.1.12](https://github.com/LAbyOne/Bash-5.1/raw/main/GNU-bash-5.1.12-release.dmg) [5.1.16](https://github.com/LAbyOne/Bash-5.1/raw/main/GNU-bash-5.1.16-release.dmg)
+Direct Download [5.1.12](https://github.com/LAbyOne/Bash-5.1/raw/main/GNU-bash-5.1.12-release.dmg) * [5.1.16](https://github.com/LAbyOne/Bash-5.1/raw/main/GNU-bash-5.1.16-release.dmg)
 
 ##
 Thanks to Armin Briegel for suggestions
