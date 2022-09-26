@@ -1,4 +1,6 @@
-# Bash-5.1.12, Bash-5.1.16
+# Bash-5.2 Release
+
+## Bash-5.1.12, Bash-5.1.16
 A  mac Installer package for Bash 5.1 release
 ##
 This script simply automates the process of downloading, building, and packaging bash for macOS.
