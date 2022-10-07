@@ -1,7 +1,7 @@
 ## Bash-5.2
-A  mac Installer package for Bash 5.2 release
+A  mac Installer package for Bash 5.2.2 release
 
-Direct Download [Bash 5.2](https://github.com/LAbyOne/Bash-5.2/raw/main/GNU-bash-5.2-release.dmg)
+Direct Download [Bash 5.2](https://github.com/LAbyOne/Bash-5.2/raw/main/GNU-bash-5.2.2-release.dmg)
 
 ## Bash-5.1.12, Bash-5.1.16
 A  mac Installer package for Bash 5.1 release
