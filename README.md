@@ -1,4 +1,4 @@
-## Bash-5.2
+## Bash-5.2.2
 A  mac Installer package for Bash 5.2.2 release
 
 Direct Download [Bash 5.2.2](https://github.com/LAbyOne/Bash-5.2/raw/main/GNU-bash-5.2.2-release.dmg)
