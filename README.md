@@ -1,7 +1,7 @@
 ## Bash-5.2.12
 A  mac Installer package for Bash 5.2.12 release
 
-Direct Download [Bash 5.2.12]https://github.com/LAbyOne/Bash-5.2/releases/download/5.2.12/GNU-bash-5.2.12-release.dmg
+[Download](https://github.com/LAbyOne/Bash-5.2/releases)
 
 ##
 This script simply automates the process of downloading, building, and packaging bash for macOS.
