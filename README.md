@@ -1,5 +1,5 @@
-## Bash-5.2.12
-A  mac Installer package for Bash 5.2.12 release
+## Bash-5.2.15
+A  mac Installer package for Bash 5.2.15 release
 
 [Download](https://github.com/LAbyOne/Bash-5.2/releases)
 
